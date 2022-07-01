@@ -2,7 +2,7 @@
 
 ### Hi there 👋, This is Enamul Haque
 #### Junior Web Developer
-![Junior Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/283078158_3190800761178880_1457786477631349183_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFTnyb24Zq_bgib8_8HRShYNFKGYcuPpyw0UoZhy4-nLCMLKeCSogVC41MaUD9GF3bXlaa1X2mTpXzMFGvgO8D7&_nc_ohc=gE_BSv9BsnEAX-am-yY&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8N-y2j3h8c5DRcPwqQv33qVRadsn8OgR82fLZEYUVUhw&oe=62C4284B)
+
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
