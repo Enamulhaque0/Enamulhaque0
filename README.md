@@ -1,4 +1,4 @@
-![Junior Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/283078158_3190800761178880_1457786477631349183_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFTnyb24Zq_bgib8_8HRShYNFKGYcuPpyw0UoZhy4-nLCMLKeCSogVC41MaUD9GF3bXlaa1X2mTpXzMFGvgO8D7&_nc_ohc=gE_BSv9BsnEAX-am-yY&_nc_ht=scontent.fdac24-2.fna&oh=00_AT8N-y2j3h8c5DRcPwqQv33qVRadsn8OgR82fLZEYUVUhw&oe=62C4284B)
+
 
 ### Hi there 👋, This is Enamul Haque
 #### Junior Web Developer
