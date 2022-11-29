@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 📫 How to reach me **Enamulhaque01010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
